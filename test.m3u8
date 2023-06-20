@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8000000
-https://cntv.sbs/live?auth=230612&id=cctv4
-https://cntv.sbs/live?auth=230612&id=cctv4
-https://cntv.sbs/live?auth=230612&id=cctv4
+https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
