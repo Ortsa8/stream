@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8000000
-http://portal.zebratv.one:80/play/live.php?mac=10:27:BE:2F:75:E5&stream=117957&extension=m3u8
